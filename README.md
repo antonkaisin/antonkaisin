@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @antonkaisin
-- 👀 I’m interested in data analyst
-- 🌱 I’m currently learning Python
-- 📫 How to reach me:
-
- tg: https://t.me/kaisin_anton
  
+ tg: https://t.me/kaisin_anton
  vk: https://vk.com/antonya
 
 <!---
