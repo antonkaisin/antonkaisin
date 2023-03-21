@@ -1,4 +1,4 @@
-Мои проекты по курсам аналитика и домашние задания по программированию на python
+My projects in analytics and geodesy-astronomy
 
 <!---
 antonkaisin/antonkaisin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
