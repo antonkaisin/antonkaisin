@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently I am working on analytical tasks and astro-geodetic tasks<br>🌱 I am currently studying at St. Petersburg State University at the Faculty of Mathematics and Mechanics<br><br>
+🔭 I'm currently  working on analytical tasks and astro-geodetic tasks<br>🌱 I am currently studying at St. Petersburg State University at the Faculty of Mathematics and Mechanics<br><br>
 
 
 ## 🌐 Socials:
